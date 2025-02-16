@@ -4,7 +4,6 @@
 J.Bounties adalah sebuah website yang menggunakan Bootstrap 5 untuk tampilan responsif dan modern. Website ini mencakup fitur seperti navbar, carousel, dan pencarian untuk meningkatkan pengalaman pengguna.
 
 ## Struktur Folder
-
 📂 J.Bounties-Website
 ├── index.html          # Halaman utama website
 ├── assets/
@@ -13,7 +12,6 @@ J.Bounties adalah sebuah website yang menggunakan Bootstrap 5 untuk tampilan res
 │   ├── koleksi.png     # Gambar koleksi carousel
 │   ├── testimoni.png   # Gambar testimoni carousel
 ├── README.md           # Dokumentasi proyek
-
 
 ## Fitur
 - *Navbar Sticky*: Navigasi utama yang selalu terlihat di bagian atas halaman.
@@ -30,7 +28,6 @@ J.Bounties adalah sebuah website yang menggunakan Bootstrap 5 untuk tampilan res
 
 ## Cara Menjalankan
 1. *Clone repository ini*
-   sh
    git clone https://github.com/username/repository-name.git
    
 2. **Buka file index.html di browser**
